@@ -1,5 +1,7 @@
 # andrNC_tuan4
 
+link video: https://youtube.com/playlist?list=PLNqcHXOGd7z1q3kcFHJMfaBOvMY2U8txY
+
 link snack expo: https://snack.expo.dev/@tienlap77/lab3
 
 ![image](https://user-images.githubusercontent.com/84888450/201461594-25ea06fe-2227-4f65-9ff6-6d382f9e5a6d.png)
