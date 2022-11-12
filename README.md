@@ -4,3 +4,6 @@
 
 
 ![image](https://user-images.githubusercontent.com/84888450/201461611-9a1a9c0f-7a40-4d2f-9387-5f66f7f3f927.png)
+
+
+link snack expo: https://snack.expo.dev/@tienlap77/lab3
