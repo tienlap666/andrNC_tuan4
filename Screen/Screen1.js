@@ -23,11 +23,11 @@ export default function Screen1({navigation}) {
           <Text style={{fontSize:18}}>Điện Thoại Vsmart Joy 3 - Hàng chính hãng</Text>
           <View style={styles.rating}>
             <View style={styles.star}>
-              <Image source={require('../assets/Star.png')}></Image>
-              <Image source={require('../assets/Star.png')}></Image>
-              <Image source={require('../assets/Star.png')}></Image>
-              <Image source={require('../assets/Star.png')}></Image>
-              <Image source={require('../assets/Star.png')}></Image>
+              <Image source={require('../img/Star.png')}></Image>
+              <Image source={require('../img/Star.png')}></Image>
+              <Image source={require('../img/Star.png')}></Image>
+              <Image source={require('../img/Star.png')}></Image>
+              <Image source={require('../img/Star.png')}></Image>
             </View>
             <Text style={{marginLeft:20,marginTop:3}}>(Xem 828 đánh giá)</Text>
           </View>

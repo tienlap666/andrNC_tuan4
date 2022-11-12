@@ -5,10 +5,10 @@ import { useRoute } from '@react-navigation/native';
 
 export default function Screen2({navigation}) {
   const title = "Điện thoại VSmart Joy 3\nHàng chính hãng"
-  var blue = require('../assets/xanh.png');
-  var silve = require('../assets/bac.png');
-  var red = require('../assets/do.png');
-  var black = require('../assets/den.png');
+  var blue = require('../img/vsmart_live_xanh.png');
+  var silve = require('../img/vsmart_live_xanh.png');
+  var red = require('../img/vsmart_live_xanh.png');
+  var black = require('../img/vsmart_live_xanh.png');
   var image = { blue, silve, red, black };
   var [link, setLink] = useState(image.blue);
   var [title_color, setTitle_color] = useState("");
